@@ -57,3 +57,9 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 -  Duelling DQN
 - Double DQN
 - Prioritized Experienced Replay
+
+### Dependencies
+Use the requirements.txt file (in this folder) to install the required dependencies via pip.
+
+pip install -r requirements.txt
+
