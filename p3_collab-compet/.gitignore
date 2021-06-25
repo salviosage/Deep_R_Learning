@@ -8,6 +8,7 @@ __pycache__/
 
 *.app/
 *app*
+README2.**
 
 
 .DS_Store
