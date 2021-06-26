@@ -47,7 +47,7 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 ### Dependencies
 Use the requirements.txt file (in this folder) to install the required dependencies via pip.
 
-``
+```
 pip install -r requirements.txt
 
-``
+```
