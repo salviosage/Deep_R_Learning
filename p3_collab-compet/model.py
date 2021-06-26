@@ -21,8 +21,7 @@ class Actor(nn.Module):
         self.fc3 = nn.Linear(fc2_units, action_size)
         
         self.bn1 = nn.BatchNorm1d(state_size)
-        #self.bn2 = nn.BatchNorm1d(fc1_units)
-        #self.bn3 = nn.BatchNorm1d(fc2_units)
+      
         
         self.reset_parameters()
 
