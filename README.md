@@ -30,7 +30,7 @@ For this project, we trained  an agent to navigate (and collect bananas!) in a l
 
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
-![Trained Agent][image3]
+![Trained Agent][image2]
 
 
 <!-- [Go to Project one ](p2_continuous-control) -->
